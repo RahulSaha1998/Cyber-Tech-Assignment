@@ -12,9 +12,9 @@ const Navbar = () => {
     const navItems = (
         <>
             <NavItem name="Home"></NavItem>
-            <NavItem name="Add Product"></NavItem>
-            <NavItem name="All Products"></NavItem>
-            <NavItem name="Cart"></NavItem>
+            <NavItem name="About"></NavItem>
+            <NavItem name="Blog"></NavItem>
+            <NavItem name="Contact"></NavItem>
         </>
     );
 

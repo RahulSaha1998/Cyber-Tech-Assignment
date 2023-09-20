@@ -26,7 +26,7 @@ const Home = () => {
             <div className="w-1/5 hidden md:block">
                 <Sidebar />
             </div>
-            <div className="w-full bg-red-500">
+            <div className="w-full">
                 <MainContent />
             </div>
         </div>
